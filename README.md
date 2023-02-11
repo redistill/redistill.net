@@ -1,75 +1,54 @@
-# gatsby-starter-hyperspace
+<img src="screenshot.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
 
-Gatsby.js V4 starter template based on Hyperspace by HTML5 UP
+<a href="https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme" target="_blank">
+<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud" />
+</a>
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
+# Gatsby Starter Portfolio Minimal Theme
 
-![Screenshot](./src/assets/img/hyperspace.jpg)
+#### A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.
 
-Check online demo [here](https://anubhavsrivastava.github.io/gatsby-starter-hyperspace/)
+Portfolio Minimal is a Gatsby Theme that let's you create outstanding one-page portfolios within minutes. This Gatsby Starter is a boilerplate project that has the theme pre-installed and pre-configured.
 
-## Screenshot
+Just clone this Gatsby Starter, add the content. And that's it!
 
-![Screenshot](./src/assets/img/demo.png)
+[Live Demo on Gatsby Cloud](https://gatsbystarterportfoliominimalt.gatsbyjs.io/) · [Live Demo on Netlify](https://gatsby-starter-portfolio-minimal-theme.netlify.app/) · [Portfolio Minimal Theme on Github](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal)
 
-## Install
+---
 
-Make sure that you have the Gatsby CLI program installed:
+## Installation
 
-```sh
-npm install --global gatsby-cli
-```
+1. Install the Gatsby CLI
 
-And run from your CLI:
+   ```sh
+   npm install -g gatsby-cli
+   ```
 
-```sh
-gatsby new <site-name> https://github.com/anubhavsrivastava/gatsby-starter-hyperspace
-```
+2. Create a new Gatsby site with the Portfolio Minimal Starter.
 
-Then you can run it by:
+   ```sh
+   gatsby new portfolio-minimal https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme
+   ```
 
-```sh
-cd gatsby-example-site
-npm install
-gatsby develop
-```
+3. Once installed, you can begin developing your site.
 
-### Deploying using Github page
+   ```sh
+   cd portfolio-minimal
+   gatsby develop
+   ```
 
-`package.json` has a default script that uses `gh-pages` module to publish on Github pages. Simply running `npm run deploy` would publish the site on github pages.
+4. By default, the Portfolio Minimal Starter has a `content` directory at the root of your Gatsby site. There, you can edit the theme settings as well as add content for your sections. To learn more about it, have a look at the [Readme of Portfolio Minimal](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal/tree/main/gatsby-theme-portfolio-minimal#readme).
 
-Additionally, it also has [path-prefix](https://www.gatsbyjs.org/docs/path-prefix/) value set for gatsby config in `config.js`. Change `pathPrefix` to relevant path if your gatsby site is hosted on subpath of a domain, `https://theanubhav.com/somePath/`. If you are hosting it as root site, i.e, `https://theanubhav.com/` , remove the pathPrefix configuration.
+---
 
-### Checkout other similar starters
+## Issues?
 
-- [gatsby-starter-casual](https://github.com/anubhavsrivastava/gatsby-starter-casual)
-- [gatsby-starter-grayscale](https://github.com/anubhavsrivastava/gatsby-starter-grayscale)
-- [gatsby-starter-resume](https://github.com/anubhavsrivastava/gatsby-starter-resume)
-- [gatsby-starter-spectral](https://github.com/anubhavsrivastava/gatsby-starter-spectral)
-- [gatsby-starter-newage](https://github.com/anubhavsrivastava/gatsby-starter-newage)
-- [gatsby-starter-stylish](https://github.com/anubhavsrivastava/gatsby-starter-stylish)
-- [gatsby-starter-solidstate](https://github.com/anubhavsrivastava/gatsby-starter-solidstate)
-- [gatsby-starter-readonly](https://github.com/anubhavsrivastava/gatsby-starter-readonly)
-- [gatsby-starter-prologue](https://github.com/anubhavsrivastava/gatsby-starter-prologue)
-- [gatsby-starter-phantom](https://github.com/anubhavsrivastava/gatsby-starter-phantom)
-- [gatsby-starter-paradigmshift](https://github.com/anubhavsrivastava/gatsby-starter-paradigmshift)
-- [gatsby-starter-overflow](https://github.com/anubhavsrivastava/gatsby-starter-overflow)
-- [gatsby-starter-multiverse](https://github.com/anubhavsrivastava/gatsby-starter-multiverse)
-- [gatsby-starter-identity](https://github.com/anubhavsrivastava/gatsby-starter-identity)
-- [gatsby-starter-highlights](https://github.com/anubhavsrivastava/gatsby-starter-highlights)
-- [gatsby-starter-fractal](https://github.com/anubhavsrivastava/gatsby-starter-fractal)
-- [gatsby-starter-directive](https://github.com/anubhavsrivastava/gatsby-starter-directive)
-- [gatsby-starter-creative](https://github.com/anubhavsrivastava/gatsby-starter-creative)
-- [gatsby-starter-aerial](https://github.com/anubhavsrivastava/gatsby-starter-aerial)
+If you find any bugs or have feature suggestions, create a new issue or pull request 🙏
 
-### Contribution
+Thanks a lot for using this starter! 💪
 
-Suggestions and PRs are welcome!
+---
 
-Please create issue or open PR request for contribution.
+<a href="https://www.buymeacoffee.com/kmuenster" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-### License
-
-[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](LICENSE)
-
-refer `LICENSE` file in this repository.
+Konstantin Münster – [konstantin.digital](https://konstantin.digital)
