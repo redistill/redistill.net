@@ -13,7 +13,7 @@ import {
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Gatsby Starter for Portfolio Minimal" />
+      <Seo title=" Redistill - Human-in-the-loop AI/ML Infrastructure that allows you to go from idea-to-AI without writing a single line of code." />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
