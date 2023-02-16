@@ -2,30 +2,33 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://www.redistill.net/",
-    "title": "Human-in-the-loop AI/ML Infrastructure that allows you to go from idea-to-AI without writing a single line of code.",
+
+    "title": "Redistill.Net - AI Data labeling & operations workforce infrastructure",
     "titleTemplate": "%s",
     "description": "Human-in-the-loop AI/ML Infrastructure that allows you to go from idea-to-AI without writing a single line of code.",
     "author": "Redistill.Net",
     "avatar": "../content/images/gatsby.png",
-    "bio": "Human-in-the-loop AI/ML Infrastructure that allows you to go from idea-to-AI without writing a single line of code.",
+    "bio": "Human-in-the-loop AI/ML Infrastructure that allows you to go from idea-to-AI without writing a single line of code. Singapore. New Delhi. Dubai",
     "social": {
       "github": "https://github.com/redistill",
       "mail": "mailto:sss@redistill.net"
+
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Redistill.net" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Features", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
       ],
-      // "ctaButton": {
-      //   "openNewTab": true,
-      //   "label": "Resume",
-      //   "url": "/resume.pdf"
-      // },
+
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Github",
+        "url": "https://github.com/redistill"
+      },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
         // { "label": "Imprint", "url": "/imprint" }
