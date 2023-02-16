@@ -1,5 +1,5 @@
 {
-  "intro": "Hej",
+  "intro": "Hi",
   "heroPhoto": {
     "src": "../../images/ai-art.png",
     "alt": "AI Artwork"
@@ -10,8 +10,8 @@
   },
   "title": "We are Redistill Networks",
   "subtitle": {
-    "prefix": "You do the science in AI",
-    "highlight": "We do everything else for you",
+    "prefix": "You do the science in AI...",
+    "highlight": "We do everything else",
     "suffix": "."
   },
   "description": "Human-in-the-loop AI/ML Infrastructure that allows you to go from idea-to-AI without writing a single line of code.",
