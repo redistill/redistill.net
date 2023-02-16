@@ -12,7 +12,6 @@
     "social": {
       "github": "https://github.com/redistill",
       "mail": "mailto:sss@redistill.net"
-
     }
   },
   "siteConfiguration": {
@@ -30,7 +29,7 @@
         "url": "https://github.com/redistill"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Privacy", "url": "/privacy" }
         // { "label": "Imprint", "url": "/imprint" }
       ]
     },
