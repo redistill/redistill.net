@@ -15,7 +15,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Redistill.net" },
+    "logo": { "text": "redistill.NET" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },

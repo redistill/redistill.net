@@ -5,7 +5,7 @@ module.exports = {
       options: {
         siteUrl: "https://www.redistill.net/", // Used for sitemap generation
         manifestSettings: {
-          favicon: "./content/images/favicon.png", // Path is relative to the root
+          favicon: "./content/images/redistill-icon.png", // Path is relative to the root
           siteName: "Redistill.Net - AI Data labeling & operations workforce infrastructure", // Used in manifest.json
           shortName: "Redistill.Net", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
