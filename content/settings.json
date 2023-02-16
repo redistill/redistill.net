@@ -2,16 +2,17 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://www.redistill.net/",
+
     "title": "Redistill.Net - AI Data labeling & operations workforce infrastructure",
-    "titleTemplate": "%s · ",
-    "description": "Redistill.Net - AI Data labeling & operations workforce infrastructure",
-    "author": "Redistill.net",
+    "titleTemplate": "%s",
+    "description": "Human-in-the-loop AI/ML Infrastructure that allows you to go from idea-to-AI without writing a single line of code.",
+    "author": "Redistill.Net",
     "avatar": "../content/images/gatsby.png",
-    "bio": "Singapore. New Delhi. Dubai",
+    "bio": "Human-in-the-loop AI/ML Infrastructure that allows you to go from idea-to-AI without writing a single line of code. Singapore. New Delhi. Dubai",
     "social": {
-      "behance": "https://behance.com",
       "github": "https://github.com/redistill",
-      "mail": "mailto:kartik.venkataraman@gmail.com"
+      "mail": "mailto:sss@redistill.net"
+
     }
   },
   "siteConfiguration": {
@@ -22,6 +23,7 @@
         { "label": "Features", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
       ],
+
       "ctaButton": {
         "openNewTab": true,
         "label": "Github",
@@ -29,7 +31,7 @@
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        // { "label": "Imprint", "url": "/imprint" }
       ]
     },
     "featureToggles": {
